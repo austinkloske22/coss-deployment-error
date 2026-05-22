@@ -1,0 +1,24 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri May 22 2026 10:02:00 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://617bed17-5e25-4cb8-92d9-6958b3277ee2.abap.eu10.hana.ondemand.com/sap/opu/odata4/coss/ui_event_o4/srvd/coss/ui_event_o4/0001/",
+    "appName": "demo-deployment",
+    "appTitle": "App Title",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "coss",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.145.2",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.24.0",
+    "template": "Basic V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```",
+    "valueHelpDownloaded": true
+  }
+}
